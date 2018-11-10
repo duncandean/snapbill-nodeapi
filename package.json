@@ -2,7 +2,7 @@
   "name": "snapbill-nodeapi",
   "version": "1.0.0",
   "description": "Node.js Library for SnapBill API",
-  "main": "index.js",
+  "main": "lib/snapbill.js",
   "dependencies": {},
   "devDependencies": {
     "chai": "^4.2.0",
